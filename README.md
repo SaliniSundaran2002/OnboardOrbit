@@ -30,7 +30,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/SaliniSundaran/OnboardOrbit.git
+    git clone https://github.com/SaliniSundaran2002/OnboardOrbit.git
     ```
 2. Navigate to the project directory:
     ```bash
