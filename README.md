@@ -53,8 +53,8 @@ To run the project locally, follow these steps:
     ```
 3. Configure the `.env` file with the following variables:
     ```bash
-    port = 3000
-    secretkey = keyboard
+    port = port_number
+    secretkey = your_private_key
     ```
 4. Start the server:
     ```bash
