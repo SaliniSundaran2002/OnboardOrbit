@@ -17,10 +17,6 @@ Onboard Orbit aims to solve the challenges of traditional onboarding processes, 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 
-## 🎞️ Demo Video
-
-Watch the demo of Onboard Orbit:  
-[Onboard Orbit: Modern Employee Onboarding Solution](#)
 
 ## ⚙️ Getting Started
 
